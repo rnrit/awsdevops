@@ -1,7 +1,0 @@
- a sample file
-merge text
-<<<<<<< HEAD
-
-=======
-text from github
->>>>>>> f71d4accb62e4b2815f59804f4a62114cb5c1401
